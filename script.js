@@ -2,7 +2,7 @@
 const TM_MODEL_URL = "./my-model/";
 // API key Gemini dari aistudio.google.com
 // INGAT: key ini terlihat publik di GitHub
-const GEMINI_KEY = "AIzaSyAc5540-kB9tzKpIhFaQlGL0O7tugouxJM"; // ganti dengan key kamu
+const GEMINI_KEY = "AIzaSyB_w_U-egw90Fkq9iXNLW0ouEft88vCyCQ"; // ganti dengan key kamu
 // Nama model Gemini yang digunakan
 const GEMINI_MODEL = "gemini-2.5-flash";
 // STATE — variabel yang dibutuhkan oleh beberapa fungsi
